@@ -1,0 +1,114 @@
+
+*
+{
+  margin: 0%;
+  padding: 0%;
+  
+}
+body{
+  text-align: center;
+}
+
+header
+{
+
+background-image: url("../part2/background.jpg");
+height: 500px;
+background-size: cover;
+background-position: top;
+background-color: rgba(0, 0, 0, .3);
+position: relative;
+
+}
+
+
+ h1 {
+ 
+  position: relative;
+  /* left: 600px; */
+  top: 50%;
+  font-size: 36px;
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  color:rgba(0, 0, 0, 0.25);
+  text-align: center;
+} 
+
+  
+  #vrk-img {
+   
+    position: relative;
+    /* left: 600px; */
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-width: thick;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+      }
+
+    p{
+        position: relative;
+        font-size: 18px;
+        line-height: 32px;
+        color:rgb(51, 51, 51);
+        font-family:  sans-serif;
+        text-align: center;
+        justify-content: center;
+         margin: 0 auto; 
+        Width: 1000px; 
+    }
+    h2{
+      position: relative;
+        /* left: 600px; */
+        font-size: 36px;
+        text-align: center;
+    }
+    a:link{
+      position: relative; 
+      font-size: 36px;
+      color: #42b4d6;
+      text-decoration: none;
+      font: 16px;
+      font-weight: normal;
+      text-align: center;
+      margin: auto;
+      /* float: left; */
+      /* left: 600px; */
+          
+    }
+        
+    
+    
+        a:visited {
+          /* visited link */
+          color:#42b4d6;
+          text-align: center;
+        }
+    
+        a:hover {
+          /* mouse over link */
+          color: #42b4d6;
+          border-bottom: 1px solid;
+          text-align: center;
+          
+        }
+    
+        a:active {
+          /* active link */
+          color: #42b4d6;
+          text-align: center;
+        }
+  
+    img{
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        /* left: 600px; */
+        width: 780px;
+        height: 960px;
+        /* text-align: center; */
+    }
+
+  
